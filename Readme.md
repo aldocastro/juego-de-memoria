@@ -8,6 +8,7 @@ Instrucciones
  *  Si el número es divisible entre 5, imprime: # el número  + “Bingo!!!”
  * Si el número es par, imprime: # el número + “par!!!”
  * Si el número es impar, imprime: # el número + “impar!!!”
- * Si el número se encuentra dentro de un rango del 30 al 40, imprime: # el número +  "Viva Swift!!!"  
+ * Si el número se encuentra dentro de un rango del 30 al 40, imprime: # el número +  "Viva Swift!!!"
+
  Debes de usar la interpolación de variables para realizar la impresión de cada número.
  La salida de mensajes debes tenerla en la consola.
